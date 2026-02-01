@@ -103,6 +103,18 @@ Typical columns:
 - Customer segment
 - Region (if available)
 
+
+## Screenshots
+
+![Screenshot 01](Screenshot%2001.png)
+![Screenshot 02](Screenshot%2002.png)
+![Screenshot 03](Screenshot%2003.png)
+![Screenshot 04](Screenshot%2004.png)
+![Screenshot 05](Screenshot%2005.png)
+![Screenshot 06](Screenshot%2006.png)
+
+
+
 ---
 
 ## DAX measures (Core)
@@ -128,14 +140,4 @@ COUNTROWS(FILTER(CallData, CallData[CallOutcome] = "Answered"))
 
 AbandonedCalls =
 COUNTROWS(FILTER(CallData, CallData[CallOutcome] = "Abandoned"))
-
-## Screenshots
-
-![Screenshot 01](Screenshot%2001.png)
-![Screenshot 02](Screenshot%2002.png)
-![Screenshot 03](Screenshot%2003.png)
-![Screenshot 04](Screenshot%2004.png)
-![Screenshot 05](Screenshot%2005.png)
-![Screenshot 06](Screenshot%2006.png)
-
 
