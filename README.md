@@ -111,11 +111,7 @@ Typical columns:
 ![Screenshot 03](Screenshot%2003.png)
 ![Screenshot 04](Screenshot%2004.png)
 ![Screenshot 05](Screenshot%2005.png)
-![Screenshot 06](Screenshot%2006.png)
-
-
-
----
+--
 
 ## DAX measures (Core)
 
